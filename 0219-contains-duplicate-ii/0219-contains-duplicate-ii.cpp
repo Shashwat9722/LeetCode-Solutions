@@ -6,12 +6,9 @@ public:
             if(mp.count(nums[i])>0){
                 if(i-mp[nums[i]]<=k){
                     return true;
-                }else{
-                    mp[nums[i]]=i;
                 }
-            }else{
-                mp[nums[i]]=i;
             }
+            mp[nums[i]]=i;
         }
         return false;
     }
