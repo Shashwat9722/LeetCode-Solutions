@@ -46,4 +46,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Math
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
