@@ -1,14 +1,19 @@
 class Solution {
 public:
     bool isMiddleElementUnique(vector<int>& nums) {
-        int n = nums[nums.size()/2];
-        for(int i=0; i<nums.size();i++)
+        int n=nums[nums.size()/2];
+        int count=0;
+        for(int i=0 ;i<nums.size(); i++)
         {
-            if(i!=nums.size()/2 && nums[i]==n)
+            if(nums[i]==n)
             {
-                return false;
+                count++;
             }
         }
-        return true;
+        if(count==1)
+        {
+            return true;
+        }
+        return false;
     }
 };
