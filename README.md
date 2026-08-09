@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
