@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
