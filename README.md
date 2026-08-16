@@ -68,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
