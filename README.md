@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
