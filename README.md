@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
