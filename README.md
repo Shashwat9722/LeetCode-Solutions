@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |
@@ -188,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
