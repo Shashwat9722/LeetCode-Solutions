@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Shashwat9722/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
